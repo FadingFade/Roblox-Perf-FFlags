@@ -10,7 +10,7 @@
   "DFFlagDisableDPIScale": false,
   "FIntRenderShadowIntensity": 0,
   "FIntDebugForceMSAASamples": 0,
-  "FFlagDisablePostFx": true,
+  "DFFlagDebugPauseVoxelizer": true,
   "DFIntDebugFRMQualityLevelOverride": 1,
   "FFlagRenderDebugCheckThreading2": true
 }
