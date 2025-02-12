@@ -1,13 +1,18 @@
 {
-  "DFFlagDebugRenderForceTechnologyVoxel": true,
-  "DFFlagDebugPauseVoxelizer": true,
+  "DFIntCullFactorPixelThresholdShadowMapHighQuality": 2147483647,
+  "DFIntCullFactorPixelThresholdShadowMapLowQuality": 2147483647,
   "FFlagDisablePostFx": true,
   "DFFlagDisableDPIScale": false,
-  "FIntRenderShadowIntensity": 0,
   "FIntDebugForceMSAASamples": 0,
   "FIntFRMMinGrassDistance": 0,
   "FIntFRMMaxGrassDistance": 0,
   "FIntRenderGrassDetailStrands": 0,
   "DFIntDebugFRMQualityLevelOverride": 1,
-  "FFlagRenderDebugCheckThreading2": true
+  "FFlagDebugDisableTelemetryEphemeralCounter": true,
+  "FFlagDebugDisableTelemetryEphemeralStat": true,
+  "FFlagDebugDisableTelemetryEventIngest": true,
+  "FFlagDebugDisableTelemetryPoint": true,
+  "FFlagDebugDisableTelemetryV2Counter": true,
+  "FFlagDebugDisableTelemetryV2Event": true,
+  "FFlagDebugDisableTelemetryV2Stat": true
 }
