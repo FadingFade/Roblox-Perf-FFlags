@@ -1,6 +1,7 @@
 {
-  "DFIntCullFactorPixelThresholdShadowMapHighQuality": 2147483647,
-  "DFIntCullFactorPixelThresholdShadowMapLowQuality": 2147483647,
+  "DFFlagDebugRenderForceTechnologyVoxel": true,
+  "DFFlagDebugPauseVoxelizer": true,
+  "FIntRenderShadowIntensity": 0,
   "FFlagDisablePostFx": true,
   "DFFlagDisableDPIScale": false,
   "FIntDebugForceMSAASamples": 0,
