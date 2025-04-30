@@ -7,5 +7,17 @@
     "DFFlagDisableDPIScale": false,
     "FIntRenderShadowIntensity": 0,
     "FFlagDisablePostFx": true,
-    "FIntDebugForceMSAASamples": 0
+    "FIntDebugForceMSAASamples": 0,
+    "DFIntMaxFrameBufferSize": 4,
+    "FIntRenderShadowmapBias": 0,
+    "FFlagDebugDisableTelemetryEphemeralCounter": true,
+    "FFlagDebugDisableTelemetryEphemeralStat": true,
+    "FFlagDebugDisableTelemetryEventIngest": true,
+    "FFlagDebugDisableTelemetryPoint": true,
+    "FFlagDebugDisableTelemetryV2Counter": true,
+    "FFlagDebugDisableTelemetryV2Event": true,
+    "FFlagDebugDisableTelemetryV2Stat": true,
+    "DFIntTimestepArbiterThresholdCFLThou": 300,
+    "DFFlagUseVisBugChecks": true,
+    "FFlagEnableVisBugChecks": true
 }
