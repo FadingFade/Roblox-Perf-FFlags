@@ -8,7 +8,6 @@
     "FIntRenderShadowIntensity": 0,
     "FFlagDisablePostFx": true,
     "FIntDebugForceMSAASamples": 0,
-    "DFIntMaxFrameBufferSize": 4,
     "FIntRenderShadowmapBias": 0,
     "FFlagDebugDisableTelemetryEphemeralCounter": true,
     "FFlagDebugDisableTelemetryEphemeralStat": true,
@@ -17,7 +16,6 @@
     "FFlagDebugDisableTelemetryV2Counter": true,
     "FFlagDebugDisableTelemetryV2Event": true,
     "FFlagDebugDisableTelemetryV2Stat": true,
-    "DFIntTimestepArbiterThresholdCFLThou": 300,
     "DFFlagUseVisBugChecks": true,
     "FFlagEnableVisBugChecks": true
 }
